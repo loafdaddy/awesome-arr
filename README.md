@@ -132,6 +132,7 @@
 
 - [Addarr](https://github.com/Waterboy1602/Addarr) - Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd.
 - [Botdarr](https://github.com/shayaantx/botdarr) - Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.
+- [Discoverr](https://github.com/loafdaddy/discoverr-bot) - A Discord bot for Seerr and Jellyfin users that posts scheduled media recommendations and request buttons.
 - [Doplarr](https://github.com/activexray/doplarr_rs) - An *arr request bot for Discord.
 - [jackett2telegram](https://github.com/danimart1991/jackett2telegram) - A self-hosted Telegram Python Bot that dumps posts from Jackett RSS feeds to a Telegram chat.
 - [Membarr](https://github.com/Yoruio/Membarr) - Discord Bot to invite a user to a Plex or Jellyfin server.
